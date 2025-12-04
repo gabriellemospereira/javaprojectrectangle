@@ -1,7 +1,3 @@
-Excelente\! Ter um `README` específico para cada projeto ajuda a documentar e mostrar exatamente o que ele faz.
-
-Aqui está um modelo de `README.md` formatado para o seu projeto de cálculo de retângulo:
-
 -----
 
 # 📐 Calculadora de Retângulo em Java
